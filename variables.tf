@@ -1,5 +1,5 @@
 variable "sg_name" {
-  type = string 
+  type = list
 }
 
 variable "sg_description" {
